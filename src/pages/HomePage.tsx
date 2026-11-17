@@ -4,6 +4,7 @@ import { profile, skillGroups, projects, education } from '../data/portfolio';
 import { SectionHeading } from '../components/SectionHeading';
 import { ProjectCard } from '../components/ProjectCard';
 
+
 const filters = ['All', 'React', 'PHP', 'Python', 'MySQL'];
 
 export function HomePage() {
